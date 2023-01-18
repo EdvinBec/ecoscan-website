@@ -1,0 +1,18 @@
+.header {
+  margin-top: 1rem;
+  height: 75vh;
+  width: 90vw;
+  display: flex;
+
+  .half {
+    width: 45%;
+    height: 100%;
+  }
+
+  .backgroundImage {
+    width: 55%;
+    background-image: url("../assets/img/sliderImage.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+}

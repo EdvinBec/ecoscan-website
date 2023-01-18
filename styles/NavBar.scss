@@ -1,4 +1,5 @@
 .navBar {
+  width: 90vw;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -7,10 +8,10 @@
   .buttons {
     display: flex;
     gap: 2rem;
-    margin-right: 6rem;
 
     button {
       transition: all ease-in-out 0.2s;
+      font-size: 1rem;
     }
 
     button:hover {
