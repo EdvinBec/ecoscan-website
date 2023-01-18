@@ -1,0 +1,28 @@
+.navBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 1rem;
+
+  .buttons {
+    display: flex;
+    gap: 2rem;
+    margin-right: 6rem;
+
+    button {
+      transition: all ease-in-out 0.2s;
+    }
+
+    button:hover {
+      transform: scale(1.05);
+      border-bottom: 2px solid green;
+    }
+  }
+
+  .logo {
+    width: 10rem;
+    height: auto;
+    margin-left: 4rem;
+    cursor: pointer;
+  }
+}
