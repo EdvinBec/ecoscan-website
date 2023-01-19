@@ -2,6 +2,7 @@ import { Inter } from "@next/font/google";
 import NavBar from "../components/NavBar";
 import logo from "../assets/img/LogoGreenNoBG.png";
 import Header from "../components/Header";
+import AboutUs from "../components/AboutUs";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -10,6 +11,7 @@ export default function Home() {
     <>
       <NavBar logo={logo} />
       <Header />
+      <AboutUs />
     </>
   );
 }

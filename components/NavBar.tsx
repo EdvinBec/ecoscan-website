@@ -13,9 +13,9 @@ const NavBar = ({ logo }: Props) => {
     <div className="navBar">
       <Image className="logo" alt="EcoScanLogo" src={logo} />
       <div className={`${inter.className} buttons`}>
-        <button>Home</button>
-        <button>About Us</button>
-        <button>Recycle</button>
+        <button>Domov</button>
+        <button>O nas</button>
+        <button>Recikliraj</button>
       </div>
     </div>
   );

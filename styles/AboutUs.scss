@@ -1,0 +1,41 @@
+.aboutContainer {
+  height: 80vh;
+  width: 100%;
+  background-color: #dfeadf;
+  margin: 4rem 0 4rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .horSpacing {
+    width: 90%;
+    display: flex;
+    gap: 2rem;
+
+    .aboutUsImage {
+      height: 23rem;
+      width: auto;
+      box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+
+    .content {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      gap: 2rem;
+      flex-direction: column;
+      justify-content: center;
+
+      p {
+        width: 80%;
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 2rem;
+        font-weight: 600;
+        color: #85ab70;
+      }
+    }
+  }
+}

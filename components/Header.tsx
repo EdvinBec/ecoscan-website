@@ -11,14 +11,15 @@ const Header = (props: Props) => {
             Eco <span>Scan</span>
           </h1>
           <p>
-            Introducing our new recycling app that makes recycling easy and
-            efficient!
+            Predstavljamo našo novo aplikacijo za recikliranje, ki omogoča
+            enostavno in učinkovito recikliranje!
           </p>
           <p>
-            Whether it`s paper, plastic, or glass, our app will provide clear
-            instructions on how to recycle each item.
+            Ne glede na to, ali je to papir, plastika ali steklo, naša
+            aplikacija bo zagotavljala jasna navodila za recikliranje vsakega
+            predmeta.
           </p>
-          <button className="ctaButton">Read more</button>
+          <button className="ctaButton">Preberite več</button>
         </div>
       </div>
       <div className="backgroundImage"></div>
