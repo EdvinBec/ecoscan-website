@@ -1,0 +1,57 @@
+.stepsContainer {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .verSpacing {
+    width: 90%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+
+    .stepsForUse {
+      margin-left: 4rem;
+    }
+
+    h1 {
+      font-size: 2rem;
+      font-weight: 600;
+      color: #85ab70;
+    }
+
+    .stepOne {
+      margin-left: 4rem;
+      margin-top: 2rem;
+      display: flex;
+      gap: 5rem;
+      align-items: center;
+      p {
+        margin-left: 5rem;
+        margin-top: 1rem;
+        width: 35rem;
+      }
+      .inline {
+        display: flex;
+        align-items: center;
+        gap: 2rem;
+
+        h1 {
+          font-size: 3rem;
+        }
+
+        .one {
+          width: 3rem;
+        }
+      }
+    }
+    .stepTwo {
+      margin-left: 4rem;
+      margin-top: 2rem;
+      display: flex;
+      gap: 5rem;
+      align-items: center;
+    }
+  }
+}
