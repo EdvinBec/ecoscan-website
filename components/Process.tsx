@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 type Props = {};
@@ -10,7 +11,7 @@ const Process = (props: Props) => {
         Celoten proces razvoja tega projekta, si lahko ogledate na spodnji
         povezavi
       </p>
-      <a href="/projekt">Poglej postopek</a>
+      <Link href={"/projekt"}>Poglej postopek</Link>
     </div>
   );
 };
