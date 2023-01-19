@@ -5,7 +5,7 @@ import two from "../assets/img/two.png";
 import three from "../assets/img/three.png";
 import sortingBuckets from "../assets/img/SortingBuckets.png";
 import scanImage from "../assets/img/scanImage.png";
-import recycleLogo from "../assets/img/recycleLogo.png";
+import recycleLogo from "../assets/img/RecycleLogo.png";
 
 type Props = {};
 
