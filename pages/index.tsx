@@ -5,6 +5,7 @@ import Header from "../components/Header";
 import AboutUs from "../components/AboutUs";
 import Steps from "../components/Steps";
 import Download from "../components/Download";
+import Process from "../components/Process";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -16,6 +17,7 @@ export default function Home() {
       <AboutUs />
       <Steps />
       <Download />
+      <Process />
     </>
   );
 }

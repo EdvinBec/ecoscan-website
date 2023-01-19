@@ -1,0 +1,25 @@
+.processContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4rem 0 2rem 0;
+  gap: 2rem;
+
+  h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #85ab70;
+  }
+
+  a {
+    background-color: #85ab70;
+    padding: 1rem 2rem;
+    color: white;
+    border-radius: 4px;
+  }
+
+  a:hover {
+    opacity: 70%;
+  }
+}
