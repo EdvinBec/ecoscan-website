@@ -15,7 +15,9 @@ const NavBar = ({ logo }: Props) => {
       <div className={`${inter.className} buttons`}>
         <button>Domov</button>
         <button>O nas</button>
-        <button>Recikliraj</button>
+        <button>Uporaba</button>
+        <button>Prenesi</button>
+        <button>Projekt</button>
       </div>
     </div>
   );
