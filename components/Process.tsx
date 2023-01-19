@@ -10,7 +10,7 @@ const Process = (props: Props) => {
         Celoten proces razvoja tega projekta, si lahko ogledate na spodnji
         povezavi
       </p>
-      <a href="/projekt">Poglej dokument</a>
+      <a href="/projekt">Poglej postopek</a>
     </div>
   );
 };
