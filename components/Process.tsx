@@ -10,7 +10,7 @@ const Process = (props: Props) => {
         Celoten proces razvoja tega projekta, si lahko ogledate na spodnji
         povezavi
       </p>
-      <a href="https://serssi-my.sharepoint.com/:w:/g/personal/edvin_becic_sers_si/EdtP3WHEyYVNjMAZx9bfQQ0BxhtFUmrYdNhuJwAzavUSzQ?e=sKTfEI">
+      <a href="https://serssi-my.sharepoint.com/:w:/g/personal/edvin_becic_sers_si/EfCO07FLOx5IjShni-Zhz3kBTQdLSLIig0cg3Pa5HOSPtg?e=97hcvk">
         Poglej dokument
       </a>
     </div>

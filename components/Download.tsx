@@ -15,7 +15,9 @@ const Download = (props: Props) => {
       </p>
       <div className="inline">
         <Image className="qrCode" alt="qrCode" src={qrCode} />
-        <a href="http://ai2.appinventor.mit.edu/b/2bnu7">Prenesi</a>
+        <a href="https://serssi-my.sharepoint.com/:u:/g/personal/edvin_becic_sers_si/EXTWt7JY13tGi5bFnTz7H5IB0FWwC2XexO0eroIo2bcQGg?e=Oa8orN">
+          Prenesi
+        </a>
       </div>
     </div>
   );
