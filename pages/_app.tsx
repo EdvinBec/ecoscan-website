@@ -5,6 +5,7 @@ import "../styles/AboutUs.scss";
 import "../styles/Steps.scss";
 import "../styles/Download.scss";
 import "../styles/Process.scss";
+import "../styles/Footer.scss";
 import type { AppProps } from "next/app";
 
 export default function App({ Component, pageProps }: AppProps) {

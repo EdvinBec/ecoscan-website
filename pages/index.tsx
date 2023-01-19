@@ -6,6 +6,7 @@ import AboutUs from "../components/AboutUs";
 import Steps from "../components/Steps";
 import Download from "../components/Download";
 import Process from "../components/Process";
+import Footer from "../components/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -18,6 +19,7 @@ export default function Home() {
       <Steps />
       <Download />
       <Process />
+      <Footer />
     </>
   );
 }
